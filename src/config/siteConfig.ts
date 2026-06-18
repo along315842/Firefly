@@ -6,10 +6,10 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Firefly",
+	title: "小B龙",
 
 	// 站点副标题
-	subtitle: "Demo site",
+	subtitle: "小单之家",
 
 	// 站点 URL
 	site_url: "https://firefly.cuteleaf.cn",
@@ -49,7 +49,7 @@ export const siteConfig: SiteConfig = {
 		// 是否开启卡片边框和阴影，开启后让网站更有立体感
 		border: true,
 		// 是否让卡片风格跟随主题色相
-		followTheme: false,
+		followTheme: true,
 	},
 
 	// Favicon 配置
