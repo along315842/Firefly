@@ -1,11 +1,14 @@
+---
+title: 低占用速度快可私有部署的离线版 Google 翻译
+published: 2026-06-22
+description: 这是文章的简短描述
+image: ./cover.jpg
+tags: [前端, 开发]
+category: 前端开发
+draft: false
+---
 # 低占用速度快可私有部署的离线版 Google 翻译
-
----
-
 - [https://github.com/xxnuo/MTranServer?tab=readme-ov-file](https://github.com/xxnuo/MTranServer?tab=readme-ov-file)
-
----
-
 ## Repository files navigation
 
 - ![](assets/image-20250704234731-t29b1sb.svg)[https://github.com/xxnuo/MTranServer?tab=readme-ov-file#README](https://github.com/xxnuo/MTranServer?tab=readme-ov-file#)
